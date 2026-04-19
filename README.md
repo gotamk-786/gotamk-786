@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gotam Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2800&pause=900&color=00E6FF&center=true&vCenter=true&width=900&height=80&lines=Gotam+Kumar;Computer+Science+Student;Software+Developer;Learning+AI%2C+OS+%26+Compilers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=48&duration=2600&pause=900&color=00E6FF&center=true&vCenter=true&width=1000&height=90&lines=Gotam+Kumar;Computer+Science+Student;Software+Developer;Learning+AI%2C+OS+%26+Compilers" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ I am **Gotam Kumar**, a Computer Science undergraduate who enjoys building pract
 ## 🚀 Current Focus
 - Building software and system-level projects  
 - Learning **Artificial Intelligence, Data Science, Operating Systems, and Compiler Construction**  
-- Exploring **Linux, shell scripting, and system internals**  
+- Exploring **Linux, shell scripting, and system internals**
 
 ---
 
